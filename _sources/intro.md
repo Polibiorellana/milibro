@@ -1,6 +1,8 @@
 # Bienvenido a Mi Libro de Futbol
 
 Este es un ejemplo de jupyter book
+Horario de tutoria 17-17
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
